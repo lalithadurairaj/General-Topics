@@ -136,3 +136,8 @@ The diagram below showcases how the Service provider, the Service requestor and 
 
 # What is the memory limit on a node process?
    Default V8 has a memory limit of 512mb on 32-bit systems, and 1gb on 64-bit systems. The limit can be raised by setting --max-old-space-size to a maximum of ~1gb (32-bit) and ~1.7gb (64-bit), but it is recommended that you split your single process into several workers if you are hitting memory limits.
+# What is the default capacity of v8 engine Garbage Collector?
+# In which memory Full-codegen and Crankshaft compilers are running?
+# Where the V8 engine stored in a system?
+# About the  ResidentSet architecture.
+
