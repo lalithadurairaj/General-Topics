@@ -141,3 +141,8 @@ The diagram below showcases how the Service provider, the Service requestor and 
 ## Where the Full-codegen and Crankshaft compilers are running ?
 ## In which memory V8 engine saved in a system ?
 ## About Nodejs Residentset architecture.
+## List the Predefined functions in NodeJs?
+## Explain about stdIn/stdOut process.
+## Cluster/Fork/Shell Execution method.
+## Filestreaming Types.
+## How to trigger a event by another event?
